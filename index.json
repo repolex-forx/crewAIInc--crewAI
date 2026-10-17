@@ -1,0 +1,11 @@
+{
+  "org": "crewAIInc",
+  "repo": "crewAI",
+  "versions": [
+    {
+      "commit": "40bb2d3b586e8367d206090cc62df5242206008f",
+      "tag": "",
+      "parsed_at": "2026-10-17T08:38:25.043202+00:00"
+    }
+  ]
+}
