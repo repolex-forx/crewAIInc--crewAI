@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/crewAIInc/crewAI/commit/40bb2d3b586e8367d206090cc62df5242206008f",
       "git:hexsha": "40bb2d3b586e8367d206090cc62df5242206008f",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-17T08:38:25.010951+00:00"
     },
     {
       "@id": "https://repolex.ai/r/crewAIInc/crewAI/commit/c310044bec6df4978e28ee26de8a81eafecb5ab3",
